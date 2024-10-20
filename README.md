@@ -1,2 +1,2 @@
 # Mahjong Support Plate
-This is a simple Riichi Mahjong support plate (麻雀サポートプレート) that can printed on thick paper and be put in the center of the table, acting as a guide and compass.
+This is a simple Riichi Mahjong support plate (麻雀サポートプレート) that can printed on thick paper and be put in the center of the table, acting as a guide and compass. It is based on the beautiful [vector graphics by FluffyStuff](https://github.com/FluffyStuff/riichi-mahjong-tiles). Other alternatives would be [this piece by Amos](https://shop.taiyo-chemicals.co.jp/shopdetail/000000000025/) or this [3d model](https://www.thingiverse.com/thing:3373621) if you've got a 3d printer.
